@@ -686,4 +686,6 @@ if __name__ == '__main__':
     where = "down"
     initial_s = (tuple(snake_pos), where, tuple(green_appls))
     snake_game = Snake(initial_s, tuple(red_appls))
-    print(breadth_first_graph_search(snake_game).solution())
+    node = breadth_first_graph_search(snake_game)
+    if node is not None:
+        print(node.solution())

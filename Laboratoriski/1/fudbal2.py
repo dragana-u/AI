@@ -595,4 +595,6 @@ if __name__ == '__main__':
     opponent_position = ((3, 3), (5, 4))
     goal_position = ((7, 2), (7, 3))
     match = SoccerMatch(opponent_position, (player_position, ball_position), goal_position)
-    print(breadth_first_graph_search(match).solution())
+    node = breadth_first_graph_search(match)
+    if node is not None:
+        print(node.solution())
