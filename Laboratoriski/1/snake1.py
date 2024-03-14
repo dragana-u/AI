@@ -493,144 +493,170 @@ def uniform_cost_search(problem):
 
 
 class Snake(Problem):
-
-    def __init__(self, initial, red_apples_obstacles):
-        super().__init__(initial)
-        self.red_apples_obstacles = red_apples_obstacles
-        self.width_and_height = 10
+    def __init__(self, initial, red_obstacles, goal=None):
+        super().__init__(initial, goal)
+        self.red_obstacles = red_obstacles
+        self.width_height = 10
 
     def successor(self, state):
         successors = dict()
-        snake = state[0]
-        pos = state[1]
-        green_apples = state[2]
-        new_state = ()
-        # ProdolzhiPravo
-        head = snake[-1]
-        snake = list(snake)
-        snake.append((head[0], head[1] - 1))
-        new_state = (tuple(snake), pos, green_apples)
-        if self.check_valid(new_state):
-            if new_state[0][-1] in green_apples:
-                new_state = (tuple(snake), pos, green_apples.remove(head))
-            else:
-                new_state = snake[1:]
-                new_state = tuple(new_state)
-            if new_state != state:
-                successors["ProdolzhiPravo"] = new_state
-        # SvrtiDesno
-        head = snake[-1]
-        if pos == "dolu":
-            snake = list(snake)
-            snake.append((head[0] - 1, head[1]))
-            new_state = (tuple(snake), "levo", green_apples)
-            if self.check_valid(new_state):
-                if new_state[0][-1] in green_apples:
-                    new_state = (tuple(snake), "levo", green_apples.remove(head))
-                else:
-                    new_state = snake[1:]
-                    new_state = tuple(new_state)
-                if new_state != state:
-                    successors["SvrtiDesno"] = new_state
-        elif pos == "gore":
-            snake = list(snake)
-            snake.append((head[0] + 1, head[1]))
-            new_state = (tuple(snake), "desno", green_apples)
-            if self.check_valid(new_state):
-                if new_state[0][-1] in green_apples:
-                    new_state = (tuple(snake), "desno", green_apples.remove(head))
-                else:
-                    new_state = snake[1:]
-                    new_state = tuple(new_state)
-                if new_state != state:
-                    successors["SvrtiDesno"] = new_state
-        elif pos == "desno":
-            snake = list(snake)
-            snake.append((head[0], head[1] - 1))
-            new_state = (tuple(snake), "dolu", green_apples)
-            if self.check_valid(new_state):
-                if new_state[0][-1] in green_apples:
-                    new_state = (tuple(snake), "dolu", green_apples.remove(head))
-                else:
-                    new_state = snake[1:]
-                    new_state = tuple(new_state)
-                if new_state != state:
-                    successors["SvrtiDesno"] = new_state
-        elif pos == "levo":
-            snake = list(snake)
-            snake.append((head[0], head[1] + 1))
-            new_state = (tuple(snake), "gore", green_apples)
-            if self.check_valid(new_state):
-                if new_state[0][-1] in green_apples:
-                    new_state = (tuple(snake), "gore", green_apples.remove(head))
-                else:
-                    new_state = snake[1:]
-                    new_state = tuple(new_state)
-                if new_state != state:
-                    successors["SvrtiDesno"] = new_state
-        # SvrtiLevo
-        head = snake[-1]
-        if pos == "dolu":
-            snake = list(snake)
-            snake.append((head[0] + 1, head[1]))
-            new_state = (tuple(snake), "desno", green_apples)
-            if self.check_valid(new_state):
-                if new_state[0][-1] in green_apples:
-                    new_state = (tuple(snake), "desno", green_apples.remove(head))
-                else:
-                    new_state = snake[1:]
-                    new_state = tuple(new_state)
-                if new_state != state:
-                    successors["SvrtiDesno"] = new_state
-        elif pos == "gore":
-            snake = list(snake)
-            snake.append((head[0] - 1, head[1]))
-            new_state = (tuple(snake), "levo", green_apples)
-            if self.check_valid(new_state):
-                if new_state[0][-1] in green_apples:
-                    new_state = (tuple(snake), "levo", green_apples.remove(head))
-                else:
-                    new_state = snake[1:]
-                    new_state = tuple(new_state)
-                if new_state != state:
-                    successors["SvrtiDesno"] = new_state
-        elif pos == "desno":
-            snake = list(snake)
-            snake.append((head[0], head[1] + 1))
-            new_state = (tuple(snake), "gore", green_apples)
-            if self.check_valid(new_state):
-                if new_state[0][-1] in green_apples:
-                    new_state = (tuple(snake), "gore", green_apples.remove(head))
-                else:
-                    new_state = snake[1:]
-                    new_state = tuple(new_state)
-                if new_state != state:
-                    successors["SvrtiDesno"] = new_state
-        elif pos == "levo":
-            snake = list(snake)
-            snake.append((head[0], head[1] - 1))
-            new_state = (tuple(snake), "dolu", green_apples)
-            if self.check_valid(new_state):
-                if new_state[0][-1] in green_apples:
-                    new_state = (tuple(snake), "dolu", green_apples.remove(head))
-                else:
-                    new_state = snake[1:]
-                    new_state = tuple(new_state)
-                if new_state != state:
-                    successors["SvrtiDesno"] = new_state
 
+        snake_body = list(state[0])
+        where_to = state[1]
+        green_apples = list(state[2])
+
+        head = snake_body[-1]
+
+        if where_to == "down":
+            # Pravo
+            x_coord = head[0]
+            y_coord = head[1] - 1
+            if self.check_valid(x_coord, y_coord, snake_body):
+                if (x_coord, y_coord) not in green_apples:
+                    new_snake_body = self.no_green_found(snake_body, x_coord, y_coord)
+                    successors["ProdolzhiPravo"] = (tuple(new_snake_body), where_to, tuple(green_apples))
+                else:
+                    new_ga, new_snake_body = self.green_found(green_apples, head, snake_body, x_coord, y_coord)
+                    successors["ProdolzhiPravo"] = (tuple(new_snake_body), where_to, tuple(new_ga))
+
+            # Desno
+            x_coord = head[0] - 1
+            y_coord = head[1]
+            if self.check_valid(x_coord, y_coord, snake_body):
+                if (x_coord, y_coord) not in green_apples:
+                    new_snake_body = self.no_green_found(snake_body, x_coord, y_coord)
+                    successors["SvrtiDesno"] = (tuple(new_snake_body), "left", tuple(green_apples))
+                else:
+                    new_ga, new_snake_body = self.green_found(green_apples, head, snake_body, x_coord, y_coord)
+                    successors["SvrtiDesno"] = (tuple(new_snake_body), "left", tuple(new_ga))
+            # Levo
+            x_coord = head[0] + 1
+            y_coord = head[1]
+            if self.check_valid(x_coord, y_coord, snake_body):
+                if (x_coord, y_coord) not in green_apples:
+                    new_snake_body = self.no_green_found(snake_body, x_coord, y_coord)
+                    successors["SvrtiLevo"] = (tuple(new_snake_body), "right", tuple(green_apples))
+                else:
+                    new_ga, new_snake_body = self.green_found(green_apples, head, snake_body, x_coord, y_coord)
+                    successors["SvrtiLevo"] = (tuple(new_snake_body), "right", tuple(new_ga))
+
+        if where_to == "up":
+            # Pravo
+            x_coord = head[0]
+            y_coord = head[1] + 1
+            if self.check_valid(x_coord, y_coord, snake_body):
+                if (x_coord, y_coord) not in green_apples:
+                    new_snake_body = self.no_green_found(snake_body, x_coord, y_coord)
+                    successors["ProdolzhiPravo"] = (tuple(new_snake_body), where_to, tuple(green_apples))
+                else:
+                    new_ga, new_snake_body = self.green_found(green_apples, head, snake_body, x_coord, y_coord)
+                    successors["ProdolzhiPravo"] = (tuple(new_snake_body), where_to, tuple(new_ga))
+            # Desno
+            x_coord = head[0] + 1
+            y_coord = head[1]
+            if self.check_valid(x_coord, y_coord, snake_body):
+                if (x_coord, y_coord) not in green_apples:
+                    new_snake_body = self.no_green_found(snake_body, x_coord, y_coord)
+                    successors["SvrtiDesno"] = (tuple(new_snake_body), "right", tuple(green_apples))
+                else:
+                    new_ga, new_snake_body = self.green_found(green_apples, head, snake_body, x_coord, y_coord)
+                    successors["SvrtiDesno"] = (tuple(new_snake_body), "right", tuple(new_ga))
+            # Levo
+            x_coord = head[0] - 1
+            y_coord = head[1]
+            if self.check_valid(x_coord, y_coord, snake_body):
+                if (x_coord, y_coord) not in green_apples:
+                    new_snake_body = self.no_green_found(snake_body, x_coord, y_coord)
+                    successors["SvrtiLevo"] = (tuple(new_snake_body), "left", tuple(green_apples))
+                else:
+                    new_ga, new_snake_body = self.green_found(green_apples, head, snake_body, x_coord, y_coord)
+                    successors["SvrtiLevo"] = (tuple(new_snake_body), "left", tuple(new_ga))
+        if where_to == "left":
+            # Pravo
+            x_coord = head[0] - 1
+            y_coord = head[1]
+            if self.check_valid(x_coord, y_coord, snake_body):
+                if (x_coord, y_coord) not in green_apples:
+                    new_snake_body = self.no_green_found(snake_body, x_coord, y_coord)
+                    successors["ProdolzhiPravo"] = (tuple(new_snake_body), where_to, tuple(green_apples))
+                else:
+                    new_ga, new_snake_body = self.green_found(green_apples, head, snake_body, x_coord, y_coord)
+                    successors["ProdolzhiPravo"] = (tuple(new_snake_body), where_to, tuple(new_ga))
+            # desno
+            x_coord = head[0]
+            y_coord = head[1] + 1
+            if self.check_valid(x_coord, y_coord, snake_body):
+                if (x_coord, y_coord) not in green_apples:
+                    new_snake_body = self.no_green_found(snake_body, x_coord, y_coord)
+                    successors["SvrtiDesno"] = (tuple(new_snake_body), "up", tuple(green_apples))
+                else:
+                    new_ga, new_snake_body = self.green_found(green_apples, head, snake_body, x_coord, y_coord)
+                    successors["SvrtiDesno"] = (tuple(new_snake_body), "up", tuple(new_ga))
+            # Levo
+            x_coord = head[0]
+            y_coord = head[1] - 1
+            if self.check_valid(x_coord, y_coord, snake_body):
+                if (x_coord, y_coord) not in green_apples:
+                    new_snake_body = self.no_green_found(snake_body, x_coord, y_coord)
+                    successors["SvrtiLevo"] = (tuple(new_snake_body), "down", tuple(green_apples))
+                else:
+                    new_ga, new_snake_body = self.green_found(green_apples, head, snake_body, x_coord, y_coord)
+                    successors["SvrtiLevo"] = (tuple(new_snake_body), "down", tuple(new_ga))
+
+        if where_to == "right":
+            # Pravo
+            x_coord = head[0] + 1
+            y_coord = head[1]
+            if self.check_valid(x_coord, y_coord, snake_body):
+                if (x_coord, y_coord) not in green_apples:
+                    new_snake_body = self.no_green_found(snake_body, x_coord, y_coord)
+                    successors["ProdolzhiPravo"] = (tuple(new_snake_body), where_to, tuple(green_apples))
+                else:
+                    new_ga, new_snake_body = self.green_found(green_apples, head, snake_body, x_coord, y_coord)
+                    successors["ProdolzhiPravo"] = (tuple(new_snake_body), where_to, tuple(new_ga))
+            # Desno
+            x_coord = head[0]
+            y_coord = head[1] - 1
+            if self.check_valid(x_coord, y_coord, snake_body):
+                if (x_coord, y_coord) not in green_apples:
+                    new_snake_body = self.no_green_found(snake_body, x_coord, y_coord)
+                    successors["SvrtiDesno"] = (tuple(new_snake_body), "down", tuple(green_apples))
+                else:
+                    new_ga, new_snake_body = self.green_found(green_apples, head, snake_body, x_coord, y_coord)
+                    successors["SvrtiDesno"] = (tuple(new_snake_body), "down", tuple(new_ga))
+            # Levo
+            x_coord = head[0]
+            y_coord = head[1] + 1
+            if self.check_valid(x_coord, y_coord, snake_body):
+                if (x_coord, y_coord) not in green_apples:
+                    new_snake_body = self.no_green_found(snake_body, x_coord, y_coord)
+                    successors["SvrtiLevo"] = (tuple(new_snake_body), "up", tuple(green_apples))
+                else:
+                    new_ga, new_snake_body = self.green_found(green_apples, head, snake_body, x_coord, y_coord)
+                    successors["SvrtiLevo"] = (tuple(new_snake_body), "up", tuple(new_ga))
         return successors
 
-    def check_valid(self, state):
-        snake = state[0]
-        for s in snake:
-            if s[0] >= self.width_and_height or s[1] >= self.width_and_height:
-                return False
-            if s[0] < 0 and s[1] < 0:
-                return False
-        if snake[-1] in self.red_apples_obstacles:
+    @staticmethod
+    def green_found(green_apples, head, snake_body, x_coord, y_coord):
+        new_ga = [(x, y) for x, y in green_apples if (x, y) != (x_coord, y_coord)]
+        new_snake_body = snake_body.copy()
+        new_snake_body.append((x_coord, y_coord))
+        return new_ga, new_snake_body
+
+    @staticmethod
+    def no_green_found(snake_body, x_coord, y_coord):
+        new_snake_body = snake_body[1:]
+        new_snake_body.append((x_coord, y_coord))
+        return new_snake_body
+
+    def check_valid(self, x_coord, y_coord, snake_body):
+        if x_coord < 0 or y_coord < 0:
             return False
-        if snake[-1] in snake[:-1]:
+        if x_coord >= self.width_height or y_coord >= self.width_height:
+            return False
+        if (x_coord, y_coord) in snake_body:
+            return False
+        if (x_coord, y_coord) in self.red_obstacles:
             return False
         return True
 
@@ -657,7 +683,7 @@ if __name__ == '__main__':
         r_input = input().split(",")
         red_appls.append((int(r_input[0]), int(r_input[1])))
     snake_pos = ((0, 9), (0, 8), (0, 7))
-    where = "dolu"
+    where = "down"
     initial_s = (tuple(snake_pos), where, tuple(green_appls))
     snake_game = Snake(initial_s, tuple(red_appls))
     print(breadth_first_graph_search(snake_game).solution())
