@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0af0bb1-885f-4c22-836c-b9e21e18d1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Auditoriski/istrazuvacInformirano.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Auditoriski/istrazuvacInformiranoTask.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auditoriski/molekulaInformirano.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auditoriski/molekulaInformiranoTask.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auditoriski/molekula.py" beforeDir="false" afterPath="$PROJECT_DIR$/Auditoriski/molekula1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auditoriski/molekulaTask.md" beforeDir="false" afterPath="$PROJECT_DIR$/Auditoriski/molekula1Task.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +47,11 @@
     "Python.dellivost.executor": "Run",
     "Python.fudbal2.executor": "Debug",
     "Python.godini.executor": "Run",
-    "Python.istrazuvacInformirano.executor": "Debug",
+    "Python.istrazuvacInformirano.executor": "Run",
     "Python.main.executor": "Run",
     "Python.minesweeper.executor": "Run",
     "Python.molekula.executor": "Run",
+    "Python.molekulaInformirano.executor": "Run",
     "Python.pacman.executor": "Run",
     "Python.parnost.executor": "Run",
     "Python.prob.executor": "Run",
@@ -77,7 +80,7 @@
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\searching_frameworks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.istrazuvacInformirano">
+  <component name="RunManager" selected="Python.molekulaInformirano">
     <configuration name="fudbal2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI1" />
       <option name="ENV_FILES" value="" />
@@ -116,6 +119,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Auditoriski/istrazuvacInformirano.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="molekulaInformirano" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Auditoriski" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Auditoriski/molekulaInformirano.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,36 +196,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="snake1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AI1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Laboratoriski/1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Laboratoriski/1/snake1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.molekulaInformirano" />
         <item itemvalue="Python.istrazuvacInformirano" />
         <item itemvalue="Python.slozuvalka" />
         <item itemvalue="Python.prob" />
         <item itemvalue="Python.fudbal2" />
-        <item itemvalue="Python.snake1" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +243,7 @@
       <workItem from="1710716123011" duration="2523000" />
       <workItem from="1710876379741" duration="804000" />
       <workItem from="1710880189161" duration="56000" />
-      <workItem from="1711202802220" duration="11661000" />
+      <workItem from="1711202802220" duration="20642000" />
     </task>
     <servers />
   </component>
@@ -305,6 +308,26 @@
           <line>16</line>
           <option name="timeStamp" value="79" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Auditoriski/istrazuvacInformirano.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Auditoriski/istrazuvacInformirano.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Auditoriski/istrazuvacInformirano.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Auditoriski/molekulaInformirano.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -321,28 +344,29 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AI1$birthdayDictionary.coverage" NAME="birthdayDictionary Coverage Results" MODIFIED="1708869740747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$try2.coverage" NAME="try2 Coverage Results" MODIFIED="1710451175186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AI1$vgnezdeniSoProverki.coverage" NAME="vgnezdeniSoProverki Coverage Results" MODIFIED="1709404451717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
-    <SUITE FILE_PATH="coverage/AI1$vgnezdeniListComp.coverage" NAME="vgnezdeniListComp Coverage Results" MODIFIED="1709401645109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
-    <SUITE FILE_PATH="coverage/AI1$zavrsetociLista.coverage" NAME="zavrsetociLista Coverage Results" MODIFIED="1708869111836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
-    <SUITE FILE_PATH="coverage/AI1$agenti.coverage" NAME="agenti Coverage Results" MODIFIED="1709400634653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1708867296257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
-    <SUITE FILE_PATH="coverage/AI1$minesweeper.coverage" NAME="minesweeper Coverage Results" MODIFIED="1710088940455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/0" />
     <SUITE FILE_PATH="coverage/AI1$fudbal2.coverage" NAME="fudbal2 Coverage Results" MODIFIED="1710716423191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/1" />
     <SUITE FILE_PATH="coverage/AI1$students.coverage" NAME="students Coverage Results" MODIFIED="1710068059905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/0" />
     <SUITE FILE_PATH="coverage/AI1$godini.coverage" NAME="godini Coverage Results" MODIFIED="1708872773753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$swapTorki.coverage" NAME="swapTorki Coverage Results" MODIFIED="1709024787394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
-    <SUITE FILE_PATH="coverage/AI1$molekula.coverage" NAME="molekula Coverage Results" MODIFIED="1710194509103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$snake1.coverage" NAME="snake1 Coverage Results" MODIFIED="1710458065739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/1" />
-    <SUITE FILE_PATH="coverage/AI1$dellivost.coverage" NAME="dellivost Coverage Results" MODIFIED="1708872971303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
-    <SUITE FILE_PATH="coverage/AI1$prob.coverage" NAME="prob Coverage Results" MODIFIED="1711208909045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AI1$istrazuvacInformirano.coverage" NAME="istrazuvacInformirano Coverage Results" MODIFIED="1711221243441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$sadovi.coverage" NAME="sadovi Coverage Results" MODIFIED="1710064792025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$covece.coverage" NAME="covece Coverage Results" MODIFIED="1710068749795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$pacman.coverage" NAME="pacman Coverage Results" MODIFIED="1710150621903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/0" />
     <SUITE FILE_PATH="coverage/AI1$main.coverage" NAME="main Coverage Results" MODIFIED="1708519116574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AI1$parnost.coverage" NAME="parnost Coverage Results" MODIFIED="1708872790252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$slozuvalka.coverage" NAME="slozuvalka Coverage Results" MODIFIED="1711213072712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
+    <SUITE FILE_PATH="coverage/AI1$birthdayDictionary.coverage" NAME="birthdayDictionary Coverage Results" MODIFIED="1708869740747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
+    <SUITE FILE_PATH="coverage/AI1$vgnezdeniListComp.coverage" NAME="vgnezdeniListComp Coverage Results" MODIFIED="1709401645109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
+    <SUITE FILE_PATH="coverage/AI1$zavrsetociLista.coverage" NAME="zavrsetociLista Coverage Results" MODIFIED="1708869111836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
+    <SUITE FILE_PATH="coverage/AI1$agenti.coverage" NAME="agenti Coverage Results" MODIFIED="1709400634653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
+    <SUITE FILE_PATH="coverage/AI1$molekulaInformirano.coverage" NAME="molekulaInformirano Coverage Results" MODIFIED="1711276225367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
+    <SUITE FILE_PATH="coverage/AI1$minesweeper.coverage" NAME="minesweeper Coverage Results" MODIFIED="1710088940455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/0" />
+    <SUITE FILE_PATH="coverage/AI1$molekula.coverage" NAME="molekula Coverage Results" MODIFIED="1710194509103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
+    <SUITE FILE_PATH="coverage/AI1$dellivost.coverage" NAME="dellivost Coverage Results" MODIFIED="1708872971303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
+    <SUITE FILE_PATH="coverage/AI1$prob.coverage" NAME="prob Coverage Results" MODIFIED="1711208909045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AI1$istrazuvacInformirano.coverage" NAME="istrazuvacInformirano Coverage Results" MODIFIED="1711221520048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
   </component>
 </project>
