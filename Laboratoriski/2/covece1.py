@@ -129,8 +129,7 @@ class HouseGame(Problem):
 
     def h(self, node):
         value = 0
-        covece_x = node.state[0][0]
-        covece_y = node.state[0][1]
+        covece_x, covece_y = node.state[0][0], node.state[0][1]
         for a in allowed:
             if a[0] > covece_x and a[1] == covece_y:
                 value += 1

@@ -66,7 +66,8 @@ class HomeGame(Problem):
         # right 3
         new_state = move_right_3(covek)
         if (self.check_valid(new_state) and (new_state[0] - 1, new_state[1]) not in self.wall_positions and
-                (new_state[0] - 2, new_state[1]) not in self.wall_positions and new_state[0] not in self.wall_positions):
+                (new_state[0] - 2, new_state[1]) not in self.wall_positions and new_state[
+                    0] not in self.wall_positions):
             successors["Desno 3"] = new_state
 
         return successors
@@ -86,8 +87,7 @@ class HomeGame(Problem):
         x_house = self.house[0]
         y_house = self.house[1]
 
-        return min(((abs(x_covece - x_house) + abs(y_covece - y_house)) / 3),
-                   ((abs(x_covece - x_house) + abs(y_covece - y_house)) / 2))
+        return (abs(x_covece - x_house) + abs(y_covece - y_house)) / 3
 
 
 if __name__ == '__main__':
