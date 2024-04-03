@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0af0bb1-885f-4c22-836c-b9e21e18d1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Laboratoriski/00/task2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratoriski/00/trudovi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadaci_Vezbanje/1/duh.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadaci_Vezbanje/1/duh.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoriski/00/task.md" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratoriski/00/task1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,50 +36,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.agenti.executor": "Run",
-    "Python.birthdayDictionary.executor": "Run",
-    "Python.calculator.executor": "Run",
-    "Python.covece.executor": "Run",
-    "Python.covece1.executor": "Run",
-    "Python.covece2.executor": "Debug",
-    "Python.dellivost.executor": "Run",
-    "Python.fudbal2.executor": "Debug",
-    "Python.godini.executor": "Run",
-    "Python.istrazuvacInformirano.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mapaAvstralija.executor": "Run",
-    "Python.meeting.executor": "Run",
-    "Python.minesweeper.executor": "Run",
-    "Python.molekula.executor": "Run",
-    "Python.molekulaInformirano.executor": "Run",
-    "Python.pacman.executor": "Run",
-    "Python.parnost.executor": "Run",
-    "Python.prob.executor": "Run",
-    "Python.sadovi.executor": "Debug",
-    "Python.slozuvalka.executor": "Run",
-    "Python.snake1.executor": "Run",
-    "Python.sostanok.executor": "Run",
-    "Python.students.executor": "Run",
-    "Python.swapTorki.executor": "Run",
-    "Python.trudovi.executor": "Run",
-    "Python.try2.executor": "Run",
-    "Python.vgnezdeniListComp.executor": "Run",
-    "Python.vgnezdeniSoProverki.executor": "Run",
-    "Python.zavrsetociLista.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/OneDrive/OneDrive - Ministry of Education and Science/Desktop/Finki/IV semestar/Vestacka inteligencija/AI1/Laboratoriski/00",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.agenti.executor&quot;: &quot;Run&quot;,
+    &quot;Python.birthdayDictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.covece.executor&quot;: &quot;Run&quot;,
+    &quot;Python.covece1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.covece2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.dellivost.executor&quot;: &quot;Run&quot;,
+    &quot;Python.duh.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.fudbal2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.godini.executor&quot;: &quot;Run&quot;,
+    &quot;Python.istrazuvacInformirano.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mapaAvstralija.executor&quot;: &quot;Run&quot;,
+    &quot;Python.meeting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.minesweeper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.molekula.executor&quot;: &quot;Run&quot;,
+    &quot;Python.molekulaInformirano.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pacman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parnost.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sadovi.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.slozuvalka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sostanok.executor&quot;: &quot;Run&quot;,
+    &quot;Python.students.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swapTorki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trudovi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vgnezdeniListComp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vgnezdeniSoProverki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zavrsetociLista.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/OneDrive/OneDrive - Ministry of Education and Science/Desktop/Finki/IV semestar/Vestacka inteligencija/AI1/Laboratoriski/00&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\Laboratoriski\00" />
@@ -90,7 +90,30 @@
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\searching_frameworks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.trudovi">
+  <component name="RunManager" selected="Python.duh">
+    <configuration name="duh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadaci_Vezbanje/1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadaci_Vezbanje/1/duh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mapaAvstralija" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI1" />
       <option name="ENV_FILES" value="" />
@@ -129,29 +152,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Laboratoriski/00/meeting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prob" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AI1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prob.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.duh" />
         <item itemvalue="Python.trudovi" />
         <item itemvalue="Python.sostanok" />
         <item itemvalue="Python.meeting" />
         <item itemvalue="Python.mapaAvstralija" />
-        <item itemvalue="Python.prob" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +256,9 @@
       <workItem from="1711202802220" duration="36453000" />
       <workItem from="1711382579848" duration="4993000" />
       <workItem from="1711481628977" duration="609000" />
-      <workItem from="1711880748536" duration="10893000" />
+      <workItem from="1711880748536" duration="11199000" />
+      <workItem from="1712091511609" duration="11000" />
+      <workItem from="1712097691647" duration="1174000" />
     </task>
     <servers />
   </component>
@@ -361,6 +363,11 @@
           <line>70</line>
           <option name="timeStamp" value="120" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/1/duh.py</url>
+          <line>517</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -379,7 +386,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AI1$try2.coverage" NAME="try2 Coverage Results" MODIFIED="1710451175186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AI1$vgnezdeniSoProverki.coverage" NAME="vgnezdeniSoProverki Coverage Results" MODIFIED="1709404451717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
-    <SUITE FILE_PATH="coverage/AI1$trudovi.coverage" NAME="trudovi Coverage Results" MODIFIED="1711979586887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/00" />
+    <SUITE FILE_PATH="coverage/AI1$trudovi.coverage" NAME="trudovi Coverage Results" MODIFIED="1711979710937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/00" />
     <SUITE FILE_PATH="coverage/AI1$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1708867296257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$fudbal2.coverage" NAME="fudbal2 Coverage Results" MODIFIED="1710716423191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/1" />
     <SUITE FILE_PATH="coverage/AI1$students.coverage" NAME="students Coverage Results" MODIFIED="1710068059905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/0" />
@@ -403,6 +410,7 @@
     <SUITE FILE_PATH="coverage/AI1$minesweeper.coverage" NAME="minesweeper Coverage Results" MODIFIED="1710088940455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/0" />
     <SUITE FILE_PATH="coverage/AI1$molekula.coverage" NAME="molekula Coverage Results" MODIFIED="1710194509103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$covece2.coverage" NAME="covece2 Coverage Results" MODIFIED="1711309342196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/2" />
+    <SUITE FILE_PATH="coverage/AI1$duh.coverage" NAME="duh Coverage Results" MODIFIED="1712098740988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zadaci_Vezbanje/1" />
     <SUITE FILE_PATH="coverage/AI1$dellivost.coverage" NAME="dellivost Coverage Results" MODIFIED="1708872971303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$istrazuvacInformirano.coverage" NAME="istrazuvacInformirano Coverage Results" MODIFIED="1711221520048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$prob.coverage" NAME="prob Coverage Results" MODIFIED="1711460372257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
