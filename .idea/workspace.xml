@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0af0bb1-885f-4c22-836c-b9e21e18d1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Zadaci_Vezbanje/5/raspored.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadaci_Vezbanje/5/raspored.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadaci_Vezbanje/2/money.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadaci_Vezbanje/2/money.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.minesweeper.executor": "Run",
     "Python.molekula.executor": "Run",
     "Python.molekulaInformirano.executor": "Run",
+    "Python.money.executor": "Run",
     "Python.obojuvanje.executor": "Debug",
     "Python.pacman.executor": "Run",
     "Python.parnost.executor": "Run",
@@ -95,7 +96,30 @@
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\searching_frameworks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.raspored">
+  <component name="RunManager" selected="Python.money">
+    <configuration name="money" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadaci_Vezbanje/2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadaci_Vezbanje/2/money.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="obojuvanje" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI1" />
       <option name="ENV_FILES" value="" />
@@ -165,29 +189,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tabla (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AI1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadaci_Vezbanje/7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadaci_Vezbanje/7/tabla.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="topki" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI1" />
       <option name="ENV_FILES" value="" />
@@ -213,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.money" />
         <item itemvalue="Python.raspored" />
         <item itemvalue="Python.topki" />
         <item itemvalue="Python.obojuvanje" />
         <item itemvalue="Python.prob" />
-        <item itemvalue="Python.tabla (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +271,7 @@
       <workItem from="1712428154639" duration="636000" />
       <workItem from="1712603531659" duration="8077000" />
       <workItem from="1712649642585" duration="10340000" />
-      <workItem from="1712746599576" duration="5483000" />
+      <workItem from="1712746599576" duration="7343000" />
     </task>
     <servers />
   </component>
@@ -437,6 +438,7 @@
     <SUITE FILE_PATH="coverage/AI1$covece1.coverage" NAME="covece1 Coverage Results" MODIFIED="1711302170472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/2" />
     <SUITE FILE_PATH="coverage/AI1$vgnezdeniListComp.coverage" NAME="vgnezdeniListComp Coverage Results" MODIFIED="1709401645109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$parnost.coverage" NAME="parnost Coverage Results" MODIFIED="1708872790252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
+    <SUITE FILE_PATH="coverage/AI1$money.coverage" NAME="money Coverage Results" MODIFIED="1712753387821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zadaci_Vezbanje/2" />
     <SUITE FILE_PATH="coverage/AI1$molekula.coverage" NAME="molekula Coverage Results" MODIFIED="1710194509103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$try2.coverage" NAME="try2 Coverage Results" MODIFIED="1710451175186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AI1$sostanok.coverage" NAME="sostanok Coverage Results" MODIFIED="1711894734695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/00" />
