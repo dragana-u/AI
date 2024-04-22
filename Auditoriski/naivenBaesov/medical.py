@@ -1,4 +1,6 @@
 import csv
+
+from sklearn.metrics import accuracy_score
 from sklearn.naive_bayes import GaussianNB
 
 def read_file(file_name):
@@ -36,7 +38,9 @@ if __name__ == '__main__':
             accuracy += 1
 
     accuracy = accuracy/len(test_set)
+    acc = accuracy_score(test_y, classifier.predict(test_x))
     print(f'Accuracy: {accuracy}')
+    print(acc)
     entry = [int(el) for el in input().split(' ')]
     predicted_class = classifier.predict([entry])[0]
     print(predicted_class)
