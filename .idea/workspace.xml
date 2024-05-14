@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0af0bb1-885f-4c22-836c-b9e21e18d1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Laboratoriski/3/solar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratoriski/3/solar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratoriski/3/tretmani.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratoriski/3/tretmani.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auditoriski/decisionTree/car.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auditoriski/decisionTree/car.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Auditoriski/naivenBaesov/medical.py" beforeDir="false" afterPath="$PROJECT_DIR$/Auditoriski/naivenBaesov/medical.py" afterDir="false" />
     </list>
@@ -44,6 +42,7 @@
     "Python.agenti.executor": "Run",
     "Python.birthdayDictionary.executor": "Run",
     "Python.calculator.executor": "Run",
+    "Python.car (1).executor": "Run",
     "Python.car.executor": "Run",
     "Python.covece.executor": "Run",
     "Python.covece1.executor": "Run",
@@ -88,7 +87,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/OneDrive/OneDrive - Ministry of Education and Science/Desktop/Finki/IV semestar/Vestacka inteligencija/AI1/Auditoriski/naivenBaesov",
+    "last_opened_file_path": "C:/Users/User/OneDrive/OneDrive - Ministry of Education and Science/Desktop/Finki/IV semestar/Vestacka inteligencija/AI1/Auditoriski/decisionTree",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -99,6 +98,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\Auditoriski\decisionTree" />
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\Auditoriski\naivenBaesov" />
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\Zadaci_Vezbanje\12" />
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\Laboratoriski\00" />
@@ -109,7 +109,30 @@
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\searching_frameworks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tretmani">
+  <component name="RunManager" selected="Python.car (1)">
+    <configuration name="car (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Auditoriski/decisionTree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Auditoriski/decisionTree/car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI1" />
       <option name="ENV_FILES" value="" />
@@ -148,29 +171,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Auditoriski/naivenBaesov/medical.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prob" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AI1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prob.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tretmani" />
+        <item itemvalue="Python.car (1)" />
         <item itemvalue="Python.medical" />
+        <item itemvalue="Python.tretmani" />
         <item itemvalue="Python.solar" />
         <item itemvalue="Python.car" />
-        <item itemvalue="Python.prob" />
       </list>
     </recent_temporary>
   </component>
@@ -296,6 +296,10 @@
       <workItem from="1713700843594" duration="145000" />
       <workItem from="1713803139901" duration="1951000" />
       <workItem from="1713809418794" duration="3050000" />
+      <workItem from="1713813227574" duration="197000" />
+      <workItem from="1714030484337" duration="580000" />
+      <workItem from="1714412287310" duration="3000" />
+      <workItem from="1715706824738" duration="4608000" />
     </task>
     <servers />
   </component>
@@ -470,6 +474,11 @@
           <line>32</line>
           <option name="timeStamp" value="206" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Auditoriski/naivenBaesov/medical.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -515,8 +524,9 @@
     <SUITE FILE_PATH="coverage/AI1$minesweeper.coverage" NAME="minesweeper Coverage Results" MODIFIED="1710088940455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/0" />
     <SUITE FILE_PATH="coverage/AI1$duh.coverage" NAME="duh Coverage Results" MODIFIED="1712098740988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zadaci_Vezbanje/1" />
     <SUITE FILE_PATH="coverage/AI1$swapTorki.coverage" NAME="swapTorki Coverage Results" MODIFIED="1709024787394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
+    <SUITE FILE_PATH="coverage/AI1$car__1_.coverage" NAME="car (1) Coverage Results" MODIFIED="1715712083584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski/decisionTree" />
     <SUITE FILE_PATH="coverage/AI1$meeting.coverage" NAME="meeting Coverage Results" MODIFIED="1711893532602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/00" />
-    <SUITE FILE_PATH="coverage/AI1$medical.coverage" NAME="medical Coverage Results" MODIFIED="1713811317793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski/naivenBaesov" />
+    <SUITE FILE_PATH="coverage/AI1$medical.coverage" NAME="medical Coverage Results" MODIFIED="1715709856746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski/naivenBaesov" />
     <SUITE FILE_PATH="coverage/AI1$vgnezdeniSoProverki.coverage" NAME="vgnezdeniSoProverki Coverage Results" MODIFIED="1709404451717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$agenti.coverage" NAME="agenti Coverage Results" MODIFIED="1709400634653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$students.coverage" NAME="students Coverage Results" MODIFIED="1710068059905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/0" />

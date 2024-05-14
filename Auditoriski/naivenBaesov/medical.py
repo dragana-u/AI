@@ -19,11 +19,11 @@ def read_file(file_name):
 if __name__ == '__main__':
     dataset = read_file('medical.csv')
     # treniranje i testiranje
-    train_set = dataset[:int(0.7*len(dataset))]
+    train_set = dataset[:int(0.75*len(dataset))]
     train_x = [row[:-1] for row in train_set]
     train_y = [row[-1] for row in train_set]
 
-    test_set = dataset[int(0.7*len(dataset)):]
+    test_set = dataset[int(0.75*len(dataset)):]
     test_x = [row[:-1] for row in test_set]
     test_y = [row[-1] for row in test_set]
 
