@@ -5,7 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0af0bb1-885f-4c22-836c-b9e21e18d1be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/1-1/staklo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/1-1/staklo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/1/duh.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/1/duh.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/1/duh.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/1/duh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/10/zmija.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/10/zmija.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/10/zmija.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/10/zmija.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/11/zmija2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/11/zmija2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/11/zmija2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/11/zmija2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/12/fudbal.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/12/fudbal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/12/fudbal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/12/fudbal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/13/fudbalinf.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/13/fudbalinf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/13/fudbalinf.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/13/fudbalinf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/14/sostanok.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/14/sostanok.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/14/sostanok.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/14/sostanok.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/15/trudovi.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/15/trudovi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/15/trudovi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/15/trudovi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/2/money.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/2/money.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/2/money.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/2/money.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/3/towerhanoi.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/3/towerhanoi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/3/towerhanoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/3/towerhanoi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/5/raspored.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/5/raspored.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/5/raspored.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/5/raspored.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/6/tabla.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/6/tabla.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/6/tabla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/6/tabla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/7/tabla.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/7/tabla.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/7/tabla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/7/tabla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/8/topki.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/8/topki.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/8/topki.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/8/topki.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/9/obojuvanje.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/9/obojuvanje.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/9/obojuvanje.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/9/obojuvanje.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,69 +64,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.agenti.executor&quot;: &quot;Run&quot;,
-    &quot;Python.birthdayDictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.car (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.car.executor&quot;: &quot;Run&quot;,
-    &quot;Python.covece.executor&quot;: &quot;Run&quot;,
-    &quot;Python.covece1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.covece2.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.dellivost.executor&quot;: &quot;Run&quot;,
-    &quot;Python.duh.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.fudbal2.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.fudbalinf.executor&quot;: &quot;Run&quot;,
-    &quot;Python.godini.executor&quot;: &quot;Run&quot;,
-    &quot;Python.istrazuvacInformirano.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kvalitetVino.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mapaAvstralija.executor&quot;: &quot;Run&quot;,
-    &quot;Python.medical.executor&quot;: &quot;Run&quot;,
-    &quot;Python.meeting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.minesweeper.executor&quot;: &quot;Run&quot;,
-    &quot;Python.molekula.executor&quot;: &quot;Run&quot;,
-    &quot;Python.molekulaInformirano.executor&quot;: &quot;Run&quot;,
-    &quot;Python.money.executor&quot;: &quot;Run&quot;,
-    &quot;Python.obojuvanje.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.odblesok.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pacman.executor&quot;: &quot;Run&quot;,
-    &quot;Python.parnost.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prob.executor&quot;: &quot;Run&quot;,
-    &quot;Python.proba.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.raspored.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sadovi.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.skaliranjeKarakteristiki.executor&quot;: &quot;Run&quot;,
-    &quot;Python.slozuvalka.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.solar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sostanok.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.students.executor&quot;: &quot;Run&quot;,
-    &quot;Python.swapTorki.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tabla (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.tabla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.topki.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.towerhanoi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tretmani.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.trudovi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.try2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vgnezdeniListComp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vgnezdeniSoProverki.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zavrsetociLista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zmija.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/OneDrive/OneDrive - Ministry of Education and Science/Desktop/Finki/IV semestar/Vestacka inteligencija/AI1/Auditoriski&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.agenti.executor": "Run",
+    "Python.birthdayDictionary.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.car (1).executor": "Debug",
+    "Python.car.executor": "Run",
+    "Python.covece.executor": "Run",
+    "Python.covece1.executor": "Run",
+    "Python.covece2.executor": "Debug",
+    "Python.dellivost.executor": "Run",
+    "Python.duh.executor": "Debug",
+    "Python.fudbal2.executor": "Debug",
+    "Python.fudbalinf.executor": "Run",
+    "Python.godini.executor": "Run",
+    "Python.istrazuvacInformirano.executor": "Run",
+    "Python.kvalitetVino.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mapaAvstralija.executor": "Run",
+    "Python.medical.executor": "Run",
+    "Python.meeting.executor": "Run",
+    "Python.minesweeper.executor": "Run",
+    "Python.molekula.executor": "Run",
+    "Python.molekulaInformirano.executor": "Run",
+    "Python.money.executor": "Run",
+    "Python.obojuvanje.executor": "Debug",
+    "Python.odblesok.executor": "Run",
+    "Python.pacman.executor": "Run",
+    "Python.parnost.executor": "Run",
+    "Python.prob.executor": "Run",
+    "Python.proba.executor": "Debug",
+    "Python.raspored.executor": "Run",
+    "Python.sadovi.executor": "Debug",
+    "Python.skaliranjeKarakteristiki.executor": "Run",
+    "Python.slozuvalka.executor": "Run",
+    "Python.snake1.executor": "Run",
+    "Python.solar.executor": "Run",
+    "Python.sostanok.executor": "Debug",
+    "Python.staklo.executor": "Run",
+    "Python.students.executor": "Run",
+    "Python.swapTorki.executor": "Run",
+    "Python.tabla (1).executor": "Debug",
+    "Python.tabla.executor": "Run",
+    "Python.topki.executor": "Debug",
+    "Python.towerhanoi.executor": "Run",
+    "Python.tretmani.executor": "Debug",
+    "Python.trudovi.executor": "Run",
+    "Python.try2.executor": "Run",
+    "Python.vgnezdeniListComp.executor": "Run",
+    "Python.vgnezdeniSoProverki.executor": "Run",
+    "Python.zavrsetociLista.executor": "Run",
+    "Python.zmija.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/User/OneDrive/OneDrive - Ministry of Education and Science/Desktop/Finki/IV semestar/Vestacka inteligencija/AI1/Auditoriski",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\Auditoriski" />
@@ -112,7 +143,7 @@
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\searching_frameworks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.skaliranjeKarakteristiki">
+  <component name="RunManager" selected="Python.staklo">
     <configuration name="car (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI1" />
       <option name="ENV_FILES" value="" />
@@ -151,29 +182,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Auditoriski/nevronski/kvalitetVino.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="odblesok" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AI1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Laboratoriski/4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Laboratoriski/4/odblesok.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,13 +236,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="staklo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vtor_Kolokvium/1-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vtor_Kolokvium/1-1/staklo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.staklo" />
         <item itemvalue="Python.skaliranjeKarakteristiki" />
         <item itemvalue="Python.kvalitetVino" />
         <item itemvalue="Python.proba" />
         <item itemvalue="Python.car (1)" />
-        <item itemvalue="Python.odblesok" />
       </list>
     </recent_temporary>
   </component>
@@ -312,6 +343,7 @@
       <workItem from="1716677635466" duration="7000" />
       <workItem from="1716724190730" duration="2000" />
       <workItem from="1716845109246" duration="8000" />
+      <workItem from="1717089719315" duration="3661000" />
     </task>
     <servers />
   </component>
@@ -417,62 +449,62 @@
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/1/duh.py</url>
+          <url>file://$PROJECT_DIR$/Prv_Kolokvium/1/duh.py</url>
           <line>517</line>
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/6/tabla.py</url>
+          <url>file://$PROJECT_DIR$/Prv_Kolokvium/6/tabla.py</url>
           <line>375</line>
           <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/7/tabla.py</url>
+          <url>file://$PROJECT_DIR$/Prv_Kolokvium/7/tabla.py</url>
           <line>463</line>
           <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/8/topki.py</url>
+          <url>file://$PROJECT_DIR$/Prv_Kolokvium/8/topki.py</url>
           <line>630</line>
           <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/8/topki.py</url>
+          <url>file://$PROJECT_DIR$/Prv_Kolokvium/8/topki.py</url>
           <line>610</line>
           <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/5/raspored.py</url>
+          <url>file://$PROJECT_DIR$/Prv_Kolokvium/5/raspored.py</url>
           <line>14</line>
           <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/15/trudovi.py</url>
+          <url>file://$PROJECT_DIR$/Prv_Kolokvium/15/trudovi.py</url>
           <line>63</line>
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/14/sostanok.py</url>
+          <url>file://$PROJECT_DIR$/Prv_Kolokvium/14/sostanok.py</url>
           <line>4</line>
           <option name="timeStamp" value="158" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/3/towerhanoi.py</url>
+          <url>file://$PROJECT_DIR$/Prv_Kolokvium/3/towerhanoi.py</url>
           <line>461</line>
           <option name="timeStamp" value="183" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/3/towerhanoi.py</url>
+          <url>file://$PROJECT_DIR$/Prv_Kolokvium/3/towerhanoi.py</url>
           <line>474</line>
           <option name="timeStamp" value="184" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/10/zmija.py</url>
+          <url>file://$PROJECT_DIR$/Prv_Kolokvium/10/zmija.py</url>
           <line>407</line>
           <option name="timeStamp" value="193" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadaci_Vezbanje/13/fudbalinf.py</url>
+          <url>file://$PROJECT_DIR$/Prv_Kolokvium/13/fudbalinf.py</url>
           <line>569</line>
           <option name="timeStamp" value="204" />
         </line-breakpoint>
@@ -536,6 +568,7 @@
     <SUITE FILE_PATH="coverage/AI1$fudbalinf.coverage" NAME="fudbalinf Coverage Results" MODIFIED="1712953082799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zadaci_Vezbanje/13" />
     <SUITE FILE_PATH="coverage/AI1$topki.coverage" NAME="topki Coverage Results" MODIFIED="1712659621042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zadaci_Vezbanje/8" />
     <SUITE FILE_PATH="coverage/AI1$covece2.coverage" NAME="covece2 Coverage Results" MODIFIED="1711309342196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/2" />
+    <SUITE FILE_PATH="coverage/AI1$staklo.coverage" NAME="staklo Coverage Results" MODIFIED="1717091739014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vtor_Kolokvium/1-1" />
     <SUITE FILE_PATH="coverage/AI1$trudovi.coverage" NAME="trudovi Coverage Results" MODIFIED="1712823630854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zadaci_Vezbanje/15" />
     <SUITE FILE_PATH="coverage/AI1$pacman.coverage" NAME="pacman Coverage Results" MODIFIED="1710150621903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/0" />
     <SUITE FILE_PATH="coverage/AI1$solar.coverage" NAME="solar Coverage Results" MODIFIED="1713804789809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/3" />
