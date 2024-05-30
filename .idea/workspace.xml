@@ -5,37 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0af0bb1-885f-4c22-836c-b9e21e18d1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/1-1/staklo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/1-1/staklo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/2-1/klasifikatori.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/2-1/klasifikatori.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/1/duh.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/1/duh.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/1/duh.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/1/duh.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/10/zmija.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/10/zmija.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/10/zmija.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/10/zmija.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/11/zmija2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/11/zmija2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/11/zmija2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/11/zmija2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/12/fudbal.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/12/fudbal.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/12/fudbal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/12/fudbal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/13/fudbalinf.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/13/fudbalinf.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/13/fudbalinf.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/13/fudbalinf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/14/sostanok.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/14/sostanok.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/14/sostanok.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/14/sostanok.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/15/trudovi.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/15/trudovi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/15/trudovi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/15/trudovi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/2/money.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/2/money.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/2/money.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/2/money.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/3/towerhanoi.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/3/towerhanoi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/3/towerhanoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/3/towerhanoi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/5/raspored.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/5/raspored.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/5/raspored.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/5/raspored.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/6/tabla.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/6/tabla.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/6/tabla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/6/tabla.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/7/tabla.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/7/tabla.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/7/tabla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/7/tabla.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/8/topki.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/8/topki.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/8/topki.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/8/topki.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/9/obojuvanje.md" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/9/obojuvanje.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaci_Vezbanje/9/obojuvanje.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prv_Kolokvium/9/obojuvanje.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +52,7 @@
     "Python.fudbalinf.executor": "Run",
     "Python.godini.executor": "Run",
     "Python.istrazuvacInformirano.executor": "Run",
+    "Python.klasifikatori.executor": "Run",
     "Python.kvalitetVino.executor": "Run",
     "Python.main.executor": "Run",
     "Python.mapaAvstralija.executor": "Run",
@@ -143,8 +116,8 @@
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\searching_frameworks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.staklo">
-    <configuration name="car (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.klasifikatori">
+    <configuration name="klasifikatori" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,12 +126,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Auditoriski/decisionTree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vtor_Kolokvium/2-1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Auditoriski/decisionTree/car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vtor_Kolokvium/2-1/klasifikatori.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.klasifikatori" />
         <item itemvalue="Python.staklo" />
         <item itemvalue="Python.skaliranjeKarakteristiki" />
         <item itemvalue="Python.kvalitetVino" />
         <item itemvalue="Python.proba" />
-        <item itemvalue="Python.car (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +316,7 @@
       <workItem from="1716677635466" duration="7000" />
       <workItem from="1716724190730" duration="2000" />
       <workItem from="1716845109246" duration="8000" />
-      <workItem from="1717089719315" duration="3661000" />
+      <workItem from="1717089719315" duration="13029000" />
     </task>
     <servers />
   </component>
@@ -561,6 +534,7 @@
     <SUITE FILE_PATH="coverage/AI1$proba.coverage" NAME="proba Coverage Results" MODIFIED="1715775639542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AI1$students.coverage" NAME="students Coverage Results" MODIFIED="1710068059905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/0" />
     <SUITE FILE_PATH="coverage/AI1$car.coverage" NAME="car Coverage Results" MODIFIED="1713693143372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski/naivenBaesov" />
+    <SUITE FILE_PATH="coverage/AI1$klasifikatori.coverage" NAME="klasifikatori Coverage Results" MODIFIED="1717105095834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vtor_Kolokvium/2-1" />
     <SUITE FILE_PATH="coverage/AI1$main.coverage" NAME="main Coverage Results" MODIFIED="1708519116574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AI1$zmija.coverage" NAME="zmija Coverage Results" MODIFIED="1712842659934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zadaci_Vezbanje/10" />
     <SUITE FILE_PATH="coverage/AI1$godini.coverage" NAME="godini Coverage Results" MODIFIED="1708872773753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
