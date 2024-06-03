@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0af0bb1-885f-4c22-836c-b9e21e18d1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Laboratoriski/000/1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratoriski/000/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/7/solarniSignali.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/7/solarniSignali.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/9/odblesok.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/9/odblesok.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +66,7 @@
     "Python.money.executor": "Run",
     "Python.obojuvanje.executor": "Debug",
     "Python.odblesok (1).executor": "Run",
+    "Python.odblesok (2).executor": "Debug",
     "Python.odblesok.executor": "Debug",
     "Python.pacman.executor": "Run",
     "Python.parnost.executor": "Run",
@@ -125,7 +124,7 @@
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\searching_frameworks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solarniSignali">
+  <component name="RunManager" selected="Python.odblesok (2)">
     <configuration name="odblesok (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI1" />
       <option name="ENV_FILES" value="" />
@@ -149,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="odblesok" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="odblesok (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,12 +157,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vtor_Kolokvium/3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vtor_Kolokvium/9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vtor_Kolokvium/3/odblesok.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vtor_Kolokvium/9/odblesok.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.odblesok (2)" />
         <item itemvalue="Python.solarniSignali" />
         <item itemvalue="Python.odblesok (1)" />
         <item itemvalue="Python.solarni" />
         <item itemvalue="Python.ribi" />
-        <item itemvalue="Python.odblesok" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +329,8 @@
       <workItem from="1717278210976" duration="5031000" />
       <workItem from="1717346880143" duration="1944000" />
       <workItem from="1717349722239" duration="2774000" />
-      <workItem from="1717363480487" duration="2496000" />
+      <workItem from="1717363480487" duration="2623000" />
+      <workItem from="1717424694234" duration="1231000" />
     </task>
     <servers />
   </component>
@@ -535,6 +535,11 @@
           <line>445</line>
           <option name="timeStamp" value="217" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Vtor_Kolokvium/9/odblesok.py</url>
+          <line>423</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -592,6 +597,7 @@
     <SUITE FILE_PATH="coverage/AI1$prob.coverage" NAME="prob Coverage Results" MODIFIED="1713688226156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AI1$sadovi.coverage" NAME="sadovi Coverage Results" MODIFIED="1710064792025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$covece.coverage" NAME="covece Coverage Results" MODIFIED="1710068749795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
+    <SUITE FILE_PATH="coverage/AI1$odblesok__2_.coverage" NAME="odblesok (2) Coverage Results" MODIFIED="1717425740298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vtor_Kolokvium/9" />
     <SUITE FILE_PATH="coverage/AI1$towerhanoi.coverage" NAME="towerhanoi Coverage Results" MODIFIED="1712833546933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zadaci_Vezbanje/3" />
     <SUITE FILE_PATH="coverage/AI1$covece1.coverage" NAME="covece1 Coverage Results" MODIFIED="1711302170472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/2" />
     <SUITE FILE_PATH="coverage/AI1$money.coverage" NAME="money Coverage Results" MODIFIED="1712753387821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zadaci_Vezbanje/2" />
