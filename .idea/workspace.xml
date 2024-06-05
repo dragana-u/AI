@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0af0bb1-885f-4c22-836c-b9e21e18d1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/12/scaler.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/12/scaler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/13/vino.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/13/vino.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,78 +38,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.agenti.executor": "Run",
-    "Python.birthdayDictionary.executor": "Run",
-    "Python.calculator.executor": "Run",
-    "Python.car (1).executor": "Debug",
-    "Python.car.executor": "Run",
-    "Python.covece.executor": "Run",
-    "Python.covece1.executor": "Run",
-    "Python.covece2.executor": "Debug",
-    "Python.dellivost.executor": "Run",
-    "Python.duh.executor": "Debug",
-    "Python.fudbal2.executor": "Debug",
-    "Python.fudbalinf.executor": "Run",
-    "Python.godini.executor": "Run",
-    "Python.istrazuvacInformirano.executor": "Run",
-    "Python.klasifikatori.executor": "Run",
-    "Python.kvalitetVino.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mapaAvstralija.executor": "Run",
-    "Python.medical.executor": "Run",
-    "Python.meeting.executor": "Run",
-    "Python.minesweeper.executor": "Run",
-    "Python.molekula.executor": "Run",
-    "Python.molekulaInformirano.executor": "Run",
-    "Python.money.executor": "Run",
-    "Python.obojuvanje.executor": "Debug",
-    "Python.odblesok (1).executor": "Run",
-    "Python.odblesok (2).executor": "Run",
-    "Python.odblesok.executor": "Debug",
-    "Python.pacman.executor": "Run",
-    "Python.parnost.executor": "Run",
-    "Python.prob.executor": "Run",
-    "Python.proba.executor": "Debug",
-    "Python.raspored.executor": "Run",
-    "Python.ribi.executor": "Debug",
-    "Python.sadovi.executor": "Debug",
-    "Python.scaler.executor": "Debug",
-    "Python.skaliranjeKarakteristiki.executor": "Run",
-    "Python.slozuvalka.executor": "Run",
-    "Python.snake1.executor": "Run",
-    "Python.solar.executor": "Run",
-    "Python.solarni.executor": "Run",
-    "Python.solarniSignali.executor": "Run",
-    "Python.sostanok.executor": "Debug",
-    "Python.staklo.executor": "Run",
-    "Python.students.executor": "Run",
-    "Python.swapTorki.executor": "Run",
-    "Python.tabla (1).executor": "Debug",
-    "Python.tabla.executor": "Run",
-    "Python.terapija.executor": "Run",
-    "Python.topki.executor": "Debug",
-    "Python.towerhanoi.executor": "Run",
-    "Python.tretmani.executor": "Debug",
-    "Python.trudovi.executor": "Run",
-    "Python.try2.executor": "Run",
-    "Python.vgnezdeniListComp.executor": "Run",
-    "Python.vgnezdeniSoProverki.executor": "Run",
-    "Python.zavrsetociLista.executor": "Run",
-    "Python.zmija.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/OneDrive/OneDrive - Ministry of Education and Science/Desktop/Finki/IV semestar/Vestacka inteligencija/AI1/Auditoriski",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.agenti.executor&quot;: &quot;Run&quot;,
+    &quot;Python.birthdayDictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.car (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.car.executor&quot;: &quot;Run&quot;,
+    &quot;Python.covece.executor&quot;: &quot;Run&quot;,
+    &quot;Python.covece1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.covece2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.dellivost.executor&quot;: &quot;Run&quot;,
+    &quot;Python.duh.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.fudbal2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.fudbalinf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.godini.executor&quot;: &quot;Run&quot;,
+    &quot;Python.istrazuvacInformirano.executor&quot;: &quot;Run&quot;,
+    &quot;Python.klasifikatori.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kvalitetVino.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mapaAvstralija.executor&quot;: &quot;Run&quot;,
+    &quot;Python.medical.executor&quot;: &quot;Run&quot;,
+    &quot;Python.meeting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.minesweeper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.molekula.executor&quot;: &quot;Run&quot;,
+    &quot;Python.molekulaInformirano.executor&quot;: &quot;Run&quot;,
+    &quot;Python.money.executor&quot;: &quot;Run&quot;,
+    &quot;Python.obojuvanje.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.odblesok (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.odblesok (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.odblesok.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.pacman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parnost.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prob.executor&quot;: &quot;Run&quot;,
+    &quot;Python.proba.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.raspored.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ribi.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sadovi.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.scaler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.skaliranjeKarakteristiki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slozuvalka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solarni.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solarniSignali.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sostanok.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.staklo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.students.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swapTorki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tabla (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.tabla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.terapija.executor&quot;: &quot;Run&quot;,
+    &quot;Python.topki.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.towerhanoi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tretmani.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.trudovi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vgnezdeniListComp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vgnezdeniSoProverki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zavrsetociLista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zmija.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/OneDrive/OneDrive - Ministry of Education and Science/Desktop/Finki/IV semestar/Vestacka inteligencija/AI1/Auditoriski&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\Auditoriski" />
@@ -334,7 +334,8 @@
       <workItem from="1717424694234" duration="2173000" />
       <workItem from="1717438340382" duration="1059000" />
       <workItem from="1717448175826" duration="2439000" />
-      <workItem from="1717522882128" duration="2758000" />
+      <workItem from="1717522882128" duration="3559000" />
+      <workItem from="1717604411702" duration="2923000" />
     </task>
     <servers />
   </component>
@@ -543,11 +544,6 @@
           <url>file://$PROJECT_DIR$/Vtor_Kolokvium/9/odblesok.py</url>
           <line>423</line>
           <option name="timeStamp" value="219" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Vtor_Kolokvium/12/scaler.py</url>
-          <line>110</line>
-          <option name="timeStamp" value="220" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
