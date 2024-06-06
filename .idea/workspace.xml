@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0af0bb1-885f-4c22-836c-b9e21e18d1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/10/vino.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/10/vino.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/8/nbmlp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vtor_Kolokvium/8/nbmlp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "Python.molekula.executor": "Run",
     "Python.molekulaInformirano.executor": "Run",
     "Python.money.executor": "Run",
+    "Python.nbmlp.executor": "Debug",
     "Python.obojuvanje.executor": "Debug",
     "Python.odblesok (1).executor": "Run",
     "Python.odblesok (2).executor": "Run",
@@ -126,8 +127,8 @@
       <recent name="C:\Users\User\OneDrive\OneDrive - Ministry of Education and Science\Desktop\Finki\IV semestar\Vestacka inteligencija\AI1\searching_frameworks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.vino">
-    <configuration name="odblesok (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.nbmlp">
+    <configuration name="nbmlp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,12 +137,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vtor_Kolokvium/6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vtor_Kolokvium/8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vtor_Kolokvium/6/odblesok.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vtor_Kolokvium/8/nbmlp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.nbmlp" />
         <item itemvalue="Python.vino" />
         <item itemvalue="Python.scaler" />
         <item itemvalue="Python.odblesok (2)" />
         <item itemvalue="Python.solarniSignali" />
-        <item itemvalue="Python.odblesok (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +337,11 @@
       <workItem from="1717438340382" duration="1059000" />
       <workItem from="1717448175826" duration="2439000" />
       <workItem from="1717522882128" duration="3559000" />
-      <workItem from="1717604411702" duration="8422000" />
+      <workItem from="1717604411702" duration="9094000" />
+      <workItem from="1717625974424" duration="10000" />
+      <workItem from="1717653362298" duration="3000" />
+      <workItem from="1717702117089" duration="1132000" />
+      <workItem from="1717703528896" duration="6871000" />
     </task>
     <servers />
   </component>
@@ -551,6 +556,11 @@
           <line>181</line>
           <option name="timeStamp" value="223" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Vtor_Kolokvium/8/nbmlp.py</url>
+          <line>438</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -570,6 +580,7 @@
     <SUITE FILE_PATH="coverage/AI1$obojuvanje.coverage" NAME="obojuvanje Coverage Results" MODIFIED="1712611530317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zadaci_Vezbanje/9" />
     <SUITE FILE_PATH="coverage/AI1$molekulaInformirano.coverage" NAME="molekulaInformirano Coverage Results" MODIFIED="1711276225367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski" />
     <SUITE FILE_PATH="coverage/AI1$snake1.coverage" NAME="snake1 Coverage Results" MODIFIED="1710458065739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/1" />
+    <SUITE FILE_PATH="coverage/AI1$nbmlp.coverage" NAME="nbmlp Coverage Results" MODIFIED="1717711637033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vtor_Kolokvium/8" />
     <SUITE FILE_PATH="coverage/AI1$fudbal2.coverage" NAME="fudbal2 Coverage Results" MODIFIED="1710716423191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Laboratoriski/1" />
     <SUITE FILE_PATH="coverage/AI1$skaliranjeKarakteristiki.coverage" NAME="skaliranjeKarakteristiki Coverage Results" MODIFIED="1716485563005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auditoriski/nevronski" />
     <SUITE FILE_PATH="coverage/AI1$terapija.coverage" NAME="terapija Coverage Results" MODIFIED="1717277045785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vtor_Kolokvium/2" />
